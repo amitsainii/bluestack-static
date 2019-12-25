@@ -1,7 +1,7 @@
 [{
-    "name": "Test Whatsapp",
+    "name": "Temple Run",
     "region": "US",
-    "createdOn": 1581638400000,
+    "createdOn": 1579717800000,
     "price": [
       {
         "plan": "1 Week - 1 Month",
@@ -18,12 +18,12 @@
     ],
     "csv": "Some CSV link for Whatsapp",
     "report": "Some report link for Whatsapp",
-    "image_url":"Some image url of the campaign" 
+    "image_url":"assets/images/games/com.png"  
   },
   {
-    "name": "Super Jewels Quest",
+    "name": "Project IGI",
     "region": "CA, FR",
-    "createdOn": 1581638400000,
+    "createdOn": 1581618600000,
     "price": [
       {
         "plan": "1 Week - 1 Month",
@@ -31,21 +31,21 @@
       },
       {
         "plan": "6 Months",
-        "amount": "$ 500.00"
+        "amount": "$ 200.00"
       },
       {
         "plan": "1 Year",
-        "amount": "$ 900.00"
+        "amount": "$ 600.00"
       }
     ],
     "csv": "Some CSV link for Super Jewels Quest",
     "report": "Some report link for Super Jewels Ques",
-    "image_url":"Some image url of the campaign"
+    "image_url":"assets/images/games/nfs.png" 
   },
   {
-    "name": "Mole Slayer",
-    "region": "FR",
-    "createdOn": 1581638400000,
+    "name": "Need for Speed™ Underground",
+    "region": "US",
+    "createdOn": 1583865000000,
     "price": [
       {
         "plan": "1 Week - 1 Month",
@@ -53,37 +53,37 @@
       },
       {
         "plan": "6 Months",
-        "amount": "$ 500.00"
+        "amount": "$ 200.00"
       },
       {
         "plan": "1 Year",
-        "amount": "$ 900.00"
+        "amount": "$ 300.00"
       }
     ],
     "csv": "Some CSV link for Mole Slayer",
     "report": "Some report link for Mole Slayer",
-    "image_url":"Some image url of the campaign"
+    "image_url":"assets/images/games/auto-chess.png" 
   },
   {
-    "name": "Mancala Mix",
+    "name": "PUBG Mobile",
     "region": "JP",
-    "createdOn": 1581638400000,
+    "createdOn": 1582482600000,
     "price": [
       {
         "plan": "1 Week - 1 Month",
-        "amount": "$ 100.00"
+        "amount": "$ 30.00"
       },
       {
         "plan": "6 Months",
-        "amount": "$ 500.00"
+        "amount": "$ 60.00"
       },
       {
         "plan": "1 Year",
-        "amount": "$ 900.00"
+        "amount": "$ 100.00"
       }
     ],
     "csv": "Some CSV link for Mancala Mix",
     "report": "Some report link for Mancala Mix",
-    "image_url":"Some image url of the campaign"
+    "image_url":"assets/images/games/pubg.png" 
   }
 ]

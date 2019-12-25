@@ -21,5 +21,10 @@
     "modal": {
         "pricing": "Pricing",
         "close": "Close"
+    },
+    "dayDiff": {
+        "today": "Today",
+        "past": "Days Ago",
+        "future": "Days Ahead"
     }
 }

@@ -21,5 +21,10 @@
     "modal": {
         "pricing": "Prezzi",
         "close": "Vicina"
+    },
+    "dayDiff": {
+        "today": "Oggi",
+        "past": "Giorni Fa",
+        "future": "Giorni a Venire"
     }
 }
